@@ -36,4 +36,5 @@ h1 {
 .song-title:hover {
     text-decoration: none; /* Remove underline on hover */
     color: #00FF00; /* Green color on hover */
+    cursor: pointer;
 }
